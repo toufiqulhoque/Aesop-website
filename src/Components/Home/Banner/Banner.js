@@ -12,7 +12,7 @@ const Banner = () => {
                     <h2 >In boldness, a bond</h2>
                     <p>Celebrating the power of self-expression this Lunar New Year through </p>
                     <p>gestures replete with character.</p>
-                    <Link className='banner-btn text-decoration-none' to='/'>Browse all gifts <BsArrowRight className='banner-icon' /></Link>
+                    <Link className='banner-btn text-decoration-none' to='/'><p className='mb-0'>Browse all gifts</p> <BsArrowRight className='banner-icon' /></Link>
                 </div>
 
             </div>

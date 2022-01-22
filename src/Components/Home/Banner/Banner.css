@@ -23,12 +23,13 @@
     border: 1px solid white;
     color: white;
     padding: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
     
 }
 .banner-btn:hover{
     background-color: #FFFEF2;
     color: black;
-}
-.banner-icon{
-    margin-left: 150px;
 }
