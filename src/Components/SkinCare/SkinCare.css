@@ -1,0 +1,26 @@
+
+.skin-care{
+    background-color: #FFFEF2;
+    
+    
+}
+.skin-care-video{
+    margin-top: 8%;
+    text-align: start;
+    margin-bottom: 15%;
+}
+.video{
+    margin-top: 10%;
+}
+.Skin-care-info{
+    margin-top: 15%;
+    text-align: start;
+    margin-left: 5%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    font-family: 'Montserrat', sans-serif;
+    
+}

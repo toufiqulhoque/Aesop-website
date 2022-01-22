@@ -1,0 +1,25 @@
+.healthy-skin{
+    background-color: #FFFEF2;
+    
+}
+
+.healthy-skin-info{
+    margin-top: 10%;
+    text-align: start;
+    margin-left: 5%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-family: 'Montserrat', sans-serif;
+}
+.healthy-skin-paragraph{
+    font-size: 14px;
+}
+.btn-des{
+    font-size: 14px;
+}
+.healthy-skin-img{
+    margin-top: 10%;
+}
