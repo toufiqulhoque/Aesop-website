@@ -23,3 +23,18 @@
 .healthy-skin-img{
     margin-top: 10%;
 }
+@media only screen and (max-width: 600px){
+    .healthy-skin{
+        flex-wrap:wrap ; 
+    }
+    .healthy-skin-info{
+        margin-bottom: 0;
+        height: 40vh;
+    }
+    .healthy-skin-img{
+        margin-top: 0%;
+    }
+    .btn-des{
+        font-size: 12px;
+    }
+}

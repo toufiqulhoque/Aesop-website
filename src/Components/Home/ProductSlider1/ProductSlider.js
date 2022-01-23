@@ -42,13 +42,13 @@ const ProductSlider = () => {
                 <div>
                     <img style={{ marginTop: 100 }} height='400' src="https://www.aesop.com/u1nb1km7t5q7/3f2oytDw9wmcetShJHqGaw/14356c3ae0f314ca8dd896fb67776f6e/Aesop_Body_Rejuvenate_Intensive_Body_Balm_120mL_large.png" alt="" />
                     <p>Rejuvenate Intensive Body Balm</p>
-                    <p style={{ marginBottom: 200 }}>A sumptous moisturing balm</p>
+                    <p >A sumptous moisturing balm</p>
 
                 </div>
                 <div>
                     <img style={{ marginTop: 100 }} height='400' src="https://www.aesop.com/u1nb1km7t5q7/1Bvr76NWKg0CgUR2bAYwtf/0123f846ce85d98c71ffa70a60946a47/Aesop_Resurrection_Portable_Hand_Care_Hybris_Large_1584x962px__1_.png" alt="" />
                     <p>Rejuvenate Intensive Body Balm</p>
-                    <p>A sumptous moisturing balm</p>
+                    <p >A sumptous moisturing balm</p>
                 </div>
                 <div>
                     <img style={{ marginTop: 100 }} height='400' src="https://www.aesop.com/u1nb1km7t5q7/5tohXrYPG52gI48cP9TbJR/c8fd45a7665745c81dffaf5c6b5895b2/Large-PNG-Aesop-Skin-Parsley-Seed-Anti-Oxidant-Facial-Toner-100mL-large.png" alt="" />

@@ -11,3 +11,10 @@
    
    
 }
+@media only screen and (max-width: 600px){
+    .TopNavbar-bg{
+        padding-left: 10px;
+        
+        text-align: start;
+    }  
+}

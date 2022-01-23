@@ -8,9 +8,9 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
     return (
         <div>
-            <Row className='footer-bg'>
-                <Col className='my-5 col-md-4 '>
-                    <InputGroup className="mb-3 ms-5">
+            <Row className='footer-bg '>
+                <Col className=' my-5 col-md-4 input '>
+                    <InputGroup className="footer-sub mb-3 ms-5">
 
                         <FormControl
                             placeholder='Email address '
@@ -22,7 +22,7 @@ const Footer = () => {
                         <Form.Check aria-label="option 1" /><p className='ms-3'> Subscribe to receive communications from Aesop about our products and services. By subscribing, you confirm you have read and accept our privacy policy </p>
                     </div>
                 </Col>
-                <Col className='my-5 ms-5 col-md-2'>
+                <Col className='  col-md-2 footer-res'>
                     <p>Orders and support</p>
                     <hr className='hr__style' />
                     <Link className='text-decoration-none footer-text'> <p>Contact us</p></Link>
@@ -33,14 +33,14 @@ const Footer = () => {
                     <Link className='text-decoration-none footer-text'><p>Terms and conditions</p></Link>
 
                 </Col>
-                <Col className='my-5 col-md-3'>
+                <Col className='  my-5 col-md-3 footer-res'>
                     <p>Services</p>
                     <hr className='hr__style' />
                     <Link className='text-decoration-none footer-text'><p>Live assistance</p></Link>
                     <Link className='text-decoration-none footer-text'><p>Corporate gifts</p></Link>
                     <Link className='text-decoration-none footer-text'><p>Facial appointments</p></Link>
                 </Col>
-                <Col className='my-5 col-md-2'>
+                <Col className='my-5 col-md-2 .footer-res'>
                     <p>Location preferences</p>
                     <hr className='hr__style' />
                     <p>Shipping:
@@ -50,12 +50,12 @@ const Footer = () => {
                 </Col>
             </Row>
             <Row className='footer-bg '>
-                <Col className='ms-5 col-md-4'>
+                <Col className='col-md-4 footer-res'>
                     <p>Sustainability</p>
                     <hr className='hr__style' />
                     <p>All Aesop products are vegan, and we do not test our formulations or ingredients on animals. We are Leaping Bunny approved and a Certified B Corporation. Learn more</p>
                 </Col>
-                <Col className='col-md-2'>
+                <Col className='col-md-2 footer-res'>
                     <p>About</p>
                     <hr className='hr__style' />
                     <Link className='text-decoration-none footer-text'><p>Our story</p></Link>
@@ -65,7 +65,7 @@ const Footer = () => {
                     <Link className='text-decoration-none footer-text'><p>Accessibility
                     </p></Link>
                 </Col>
-                <Col className='col-md-3  '>
+                <Col className='col-md-3 footer-res '>
                     <p>Social media</p>
                     <hr className='hr__style' />
                     <Link className='text-decoration-none footer-text'><p>Instagram </p></Link>

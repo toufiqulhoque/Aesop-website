@@ -31,7 +31,8 @@
     background-color: #333333;
     color: #FFFEF2;
 }
-.store-locator-slider{
-   
-    
+@media only screen and (max-width: 600px){
+    .store-locator-info{
+        height: 30vh;
+    }
 }
